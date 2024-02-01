@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tengkuzainul&show_icons=true&locale=en&layout=compact" alt="tengkuzainul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tengkuzainul&show_icons=true&locale=en" alt="tengkuzainul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tengkuzainul&" alt="tengkuzainul" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tengkuzainul&theme=radical&hide_border=true&border_radius=5.1)](https://git.io/streak-stats) [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
