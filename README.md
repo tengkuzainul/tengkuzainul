@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
-![](https://komarev.com/ghpvc/?username=tengkuzainul=green)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tengkuzainula&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=tengkuzainul)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tengkuzainul&show_icons=true&theme=radical)
