@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tengku Muhammad Zainul Aprilizar</h1>
-<h3 align="center">I'm Web Weveloper Enthusiast</h3>
+<h3 align="center">I'm Web Developer Enthusiast</h3>
 
 <h3 align="left">Let's see my social media😉</h3>
 <p align="left">
