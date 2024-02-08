@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tengku Muhammad Zainul Aprilizar</h1>
 <h3 align="center">I'm Web Weveloper Enthusiast</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Let's see my social media😉</h3>
 <p align="left">
   <a href="https://github.com/tengkuzainul" style="border: 1px solid #ccc; padding: 5px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -25,7 +25,7 @@
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=tengkuzainul&theme=radical&hide_border=true&border_radius=5.1" alt="GitHub Streak">
+        <img src="https://streak-stats.demolab.com?user=tengkuzainul&theme=gruvbox_light&hide_border=true&border_radius=5.1" alt="GitHub Streak">
       </a>
     </td>
   </tr>
