@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
+<hr/>
 <table>
-  <thead>
+  <thead border="0" width="100%">
     <tr>
       <th>
         <p><b>Tech Stack :</b></p>
