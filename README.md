@@ -18,6 +18,8 @@
 
 <br/>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tengkuzainul.tengkuzainul&left_color=navy&right_color=yellow&left_text=Profile%20Views"  />
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo" />
         <img width="12" />
