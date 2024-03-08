@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Tengku Muhammad Zainul Aprilizar</b></h1>
 
-<p align="center"><b>Web Developer Enthusiast</b></p>
+<p align="center"><b>Web Developer Anthusiast</b></p>
 
 <hr/>
 
