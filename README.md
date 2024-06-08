@@ -18,29 +18,15 @@
 
 <br/>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tengkuzainul.tengkuzainul&left_color=navy&right_color=yellow&left_text=Profile%20Views"  />
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/css3/1572B6" height="50" alt="css3 logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" alt="javascript logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/php/777BB4" height="50" alt="php logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/react/61DAFB" height="50" alt="react logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo" />
-</div>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tengkuzainul&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tengkuzainul&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuzainul&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=tengkuzainul&icon=3&color=8)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tengkuzainul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph" /> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tengkuzainul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="180" alt="languages graph" />
-   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tengkuzainul&radius=16&theme=vue-dark&area=true&order=5" height="400" alt="activity-graph graph"  />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
