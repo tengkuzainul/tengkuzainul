@@ -6,7 +6,9 @@
 - 🏅 I'm Associate **Junior Web Developer** by [_BNSP_](https://drive.google.com/file/d/1PW3DAM6kb_gNTIj6ifjzH39ttv2XhWwg/view?usp=sharing)
 - **</>** The Tech Stack I am currently using is [**TALL**](https://tallstack.dev/)
 
-<p align="center" style="font-weight: bold; color: #7F55B1; font-size: 1.5rem;">Social Media</p>
+---
+
+**<h3 style="text-align:center;">SICIAL MEDIA</h3>**
 
 <div align="center">
           <a href="https://www.instagram.com/tengkumz_">
@@ -23,3 +25,5 @@
                                 </a>
 
 </div>
+
+---
