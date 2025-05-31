@@ -8,7 +8,7 @@
 
 ---
 
-**<h3 style="text-align:center;">SICIAL MEDIA</h3>**
+**<h3 align="center">SICIAL MEDIA</h3>**
 
 <div align="center">
           <a href="https://www.instagram.com/tengkumz_">
