@@ -1,0 +1,127 @@
+<svg width="520" height="320" viewBox="0 0 520 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg_p" x1="0" y1="0" x2="520" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <!-- Top glow: Green → Blue -->
+    <linearGradient id="tg_p" x1="0" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0"    stop-color="#39D353" stop-opacity="0"/>
+      <stop offset="0.3"  stop-color="#39D353" stop-opacity="0.9"/>
+      <stop offset="0.7"  stop-color="#58A6FF" stop-opacity="0.9"/>
+      <stop offset="1"    stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Shimmer -->
+    <linearGradient id="shim_p" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"   stop-color="white" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="white" stop-opacity="0.07"/>
+      <stop offset="1"   stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip_p">
+      <rect width="520" height="300" rx="12"/>
+    </clipPath>
+    <filter id="shad_p" x="-30%" y="-30%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="liveGlow_p" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Animated shadow -->
+  <ellipse cx="260" cy="312" rx="230" ry="10" fill="#000000" opacity="0.45" filter="url(#shad_p)">
+    <animate attributeName="cy"      values="312;317;312"     dur="5s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4,0,0.6,1;0.4,0,0.6,1" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="ry"      values="10;5;10"         dur="5s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4,0,0.6,1;0.4,0,0.6,1" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="opacity" values="0.45;0.18;0.45"  dur="5s" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.4,0,0.6,1;0.4,0,0.6,1" repeatCount="indefinite" begin="1s"/>
+  </ellipse>
+
+  <!-- Floating card wrapper -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0,0; 0,-5; 0,0" dur="5s" keyTimes="0;0.5;1"
+      calcMode="spline" keySplines="0.4,0,0.6,1;0.4,0,0.6,1"
+      repeatCount="indefinite" begin="1s"/>
+
+    <!-- Card background -->
+    <rect width="520" height="300" rx="12" fill="url(#bg_p)"/>
+    <rect x="0.75" y="0.75" width="518.5" height="298.5" rx="11.5" fill="none" stroke="#30363D" stroke-width="1.5"/>
+    <!-- Top accent glow -->
+    <rect x="0" y="0" width="520" height="3" rx="1.5" fill="url(#tg_p)"/>
+
+    <!-- Title bar -->
+    <rect x="1" y="1" width="518" height="44" rx="11" fill="#161B22"/>
+    <rect x="1" y="34" width="518" height="11" fill="#161B22"/>
+    <line x1="1" y1="44" x2="519" y2="44" stroke="#21262D" stroke-width="1"/>
+
+    <!-- Window controls -->
+    <circle cx="24" cy="22" r="6" fill="#FF5F57"/>
+    <circle cx="44" cy="22" r="6" fill="#FEBC2E"/>
+    <circle cx="64" cy="22" r="6" fill="#28C840"/>
+
+    <!-- Live pulsing dot -->
+    <circle cx="492" cy="22" r="12" fill="#39D353" fill-opacity="0.1">
+      <animate attributeName="r" values="8;14;8" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="fill-opacity" values="0.1;0;0.1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="492" cy="22" r="5" fill="#39D353" filter="url(#liveGlow_p)"/>
+
+    <!-- Title -->
+    <text x="260" y="27" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="13" fill="#6E7681">&#x1F464; ABOUT ME</text>
+
+    <!-- ═══ IDENTITY ROWS ═══ -->
+    <!-- Education -->
+    <text x="30" y="78" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6E7681">Education</text>
+    <line x1="122" y1="74" x2="300" y2="74" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="78" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" fill="#E6EDF3">S1 Sistem Informasi</text>
+
+    <!-- Certified -->
+    <text x="30" y="103" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6E7681">Certified</text>
+    <line x1="116" y1="99" x2="300" y2="99" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="103" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" fill="#F7DF1E">BNSP Junior Web Dev</text>
+
+    <!-- Location -->
+    <text x="30" y="128" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6E7681">Location</text>
+    <line x1="114" y1="124" x2="300" y2="124" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="128" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" fill="#E6EDF3">Indonesia</text>
+
+    <!-- Stack -->
+    <text x="30" y="153" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6E7681">Stack</text>
+    <line x1="88" y1="149" x2="300" y2="149" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="153" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" fill="#58A6FF">TALL Stack</text>
+
+    <!-- Status -->
+    <text x="30" y="178" font-family="'Courier New', Courier, monospace" font-size="12" fill="#6E7681">Status</text>
+    <line x1="95" y1="174" x2="300" y2="174" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="178" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="12" fill="#39D353">Open to Collaborate</text>
+
+    <!-- Section separator -->
+    <line x1="20" y1="196" x2="500" y2="196" stroke="#21262D" stroke-width="1"/>
+
+    <!-- Contact label -->
+    <text x="30" y="215" font-family="'Courier New', Courier, monospace" font-size="10" fill="#8B949E">Contact</text>
+
+    <!-- Mail -->
+    <text x="30" y="234" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#6E7681">Grid.Mail</text>
+    <line x1="108" y1="230" x2="300" y2="230" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="234" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#58A6FF">tengkuzainula04@gmail.com</text>
+
+    <!-- LinkedIn -->
+    <text x="30" y="255" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#6E7681">Grid.LinkedIn</text>
+    <line x1="138" y1="251" x2="300" y2="251" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="255" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#58A6FF">in/tengkuzainull</text>
+
+    <!-- GitHub -->
+    <text x="30" y="276" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#6E7681">Grid.GitHub</text>
+    <line x1="127" y1="272" x2="300" y2="272" stroke="#21262D" stroke-width="1" stroke-dasharray="3,6"/>
+    <text x="500" y="276" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="11.5" fill="#58A6FF">@tengkuzainul</text>
+
+    <!-- Shimmer sweep -->
+    <rect x="-200" y="0" width="200" height="300" fill="url(#shim_p)" clip-path="url(#clip_p)">
+      <animateTransform attributeName="transform" type="translate"
+        values="-200,0; 720,0; -200,0" dur="5s" keyTimes="0;0.5;1"
+        calcMode="spline" keySplines="0.35,0,0.65,1;0.35,0,0.65,1"
+        repeatCount="indefinite" begin="1s"/>
+    </rect>
+  </g>
+</svg>
