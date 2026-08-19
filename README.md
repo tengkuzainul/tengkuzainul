@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              TENGKU ZAINUL — GITHUB PROFILE               -->
-<!--              Bento Grid Layout · 3D Card Edition          -->
+<!--       Bento Grid Layout · ASCII Matrix · 3D Cards         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -12,17 +12,27 @@
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║  BENTO ROW 1 — Terminal ID Card (Full Width)            ║ -->
+<!-- ║  BENTO ROW 0 — ASCII Matrix Rain Banner                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="img/terminal-card.svg" alt="Tengku Zainul — Terminal ID Card" width="100%"/>
+  <img src="img/ascii-banner.svg" alt="ASCII Matrix Rain Banner" width="100%"/>
 </p>
 
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║  BENTO ROW 2 — Tech Stack · About Me (50 / 50)         ║ -->
+<!-- ║  BENTO ROW 1 — Terminal ID Card (Full Width, 3D)        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="img/terminal-card.svg" alt="Terminal ID Card" width="100%"/>
+</p>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║  BENTO ROW 2 — Tech Stack · About Me (50 / 50, 3D)     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -39,16 +49,20 @@
 <br/>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║  BENTO ROW 3 — GitHub Stats · Top Languages (55 / 45)  ║ -->
+<!-- ║  BENTO ROW 3 — GitHub Stats · Top Languages             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="55%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=tengkuzainul&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=e6edf3&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+    <td align="center" width="50%">
+      <a href="https://github.com/tengkuzainul">
+        <img src="https://github-readme-stats.vercel.app/api?username=tengkuzainul&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=e6edf3&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" width="100%" height="180"/>
+      </a>
     </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuzainul&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide_border=false&langs_count=8" alt="Top Languages" width="100%"/>
+    <td align="center" width="50%">
+      <a href="https://github.com/tengkuzainul">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuzainul&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide_border=false&langs_count=8" alt="Top Languages" width="100%" height="180"/>
+      </a>
     </td>
   </tr>
 </table>

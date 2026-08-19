@@ -1,0 +1,298 @@
+<svg width="860" height="160" viewBox="0 0 860 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Top/bottom fade overlay -->
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0D1117" stop-opacity="1"/>
+      <stop offset="28%"  stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="72%"  stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1"/>
+    </linearGradient>
+    <!-- Name glow -->
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <!-- Sub glow -->
+    <filter id="sglow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="160" fill="#0D1117"/>
+  <!-- Border -->
+  <rect x="0.5" y="0.5" width="859" height="159" fill="none" stroke="#21262D" stroke-width="1"/>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- MATRIX RAIN — 20 columns × 2 groups each   -->
+  <!-- ═══════════════════════════════════════════ -->
+
+  <!-- COL 1 x=10 dur=2.2s -->
+  <text x="10" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="10" dy="13" fill="#AEFFC0">1</tspan><tspan x="10" dy="13">0</tspan><tspan x="10" dy="13">T</tspan><tspan x="10" dy="13">@</tspan><tspan x="10" dy="13">E</tspan><tspan x="10" dy="13">N</tspan><tspan x="10" dy="13">#</tspan><tspan x="10" dy="13">G</tspan><tspan x="10" dy="13">K</tspan><tspan x="10" dy="13">$</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.8;0.45;0" dur="2.2s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="10" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="10" dy="13" fill="#AEFFC0">Z</tspan><tspan x="10" dy="13">A</tspan><tspan x="10" dy="13">I</tspan><tspan x="10" dy="13">N</tspan><tspan x="10" dy="13">U</tspan><tspan x="10" dy="13">L</tspan><tspan x="10" dy="13">%</tspan><tspan x="10" dy="13">*</tspan><tspan x="10" dy="13">+</tspan><tspan x="10" dy="13">=</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.2s" repeatCount="indefinite" calcMode="linear" begin="1.1s"/>
+    <animate attributeName="opacity" values="0;0.8;0.45;0" dur="2.2s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.1s"/>
+  </text>
+
+  <!-- COL 2 x=53 dur=2.7s -->
+  <text x="53" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="53" dy="13" fill="#AEFFC0">W</tspan><tspan x="53" dy="13">E</tspan><tspan x="53" dy="13">B</tspan><tspan x="53" dy="13">D</tspan><tspan x="53" dy="13">E</tspan><tspan x="53" dy="13">V</tspan><tspan x="53" dy="13">@</tspan><tspan x="53" dy="13">1</tspan><tspan x="53" dy="13">0</tspan><tspan x="53" dy="13">#</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.7s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.8;0.4;0" dur="2.7s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="53" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="53" dy="13" fill="#AEFFC0">P</tspan><tspan x="53" dy="13">H</tspan><tspan x="53" dy="13">P</tspan><tspan x="53" dy="13">L</tspan><tspan x="53" dy="13">A</tspan><tspan x="53" dy="13">R</tspan><tspan x="53" dy="13">A</tspan><tspan x="53" dy="13">V</tspan><tspan x="53" dy="13">E</tspan><tspan x="53" dy="13">L</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.7s" repeatCount="indefinite" calcMode="linear" begin="1.35s"/>
+    <animate attributeName="opacity" values="0;0.8;0.4;0" dur="2.7s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.35s"/>
+  </text>
+
+  <!-- COL 3 x=96 dur=1.9s -->
+  <text x="96" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="96" dy="13" fill="#AEFFC0">0</tspan><tspan x="96" dy="13">1</tspan><tspan x="96" dy="13">@</tspan><tspan x="96" dy="13">#</tspan><tspan x="96" dy="13">$</tspan><tspan x="96" dy="13">E</tspan><tspan x="96" dy="13">T</tspan><tspan x="96" dy="13">G</tspan><tspan x="96" dy="13">K</tspan><tspan x="96" dy="13">U</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.9s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.9s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="96" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="96" dy="13" fill="#AEFFC0">T</tspan><tspan x="96" dy="13">A</tspan><tspan x="96" dy="13">L</tspan><tspan x="96" dy="13">L</tspan><tspan x="96" dy="13">@</tspan><tspan x="96" dy="13">#</tspan><tspan x="96" dy="13">$</tspan><tspan x="96" dy="13">0</tspan><tspan x="96" dy="13">1</tspan><tspan x="96" dy="13">%</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.9s" repeatCount="indefinite" calcMode="linear" begin="0.95s"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.9s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="0.95s"/>
+  </text>
+
+  <!-- COL 4 x=139 dur=2.4s -->
+  <text x="139" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="139" dy="13" fill="#AEFFC0">T</tspan><tspan x="139" dy="13">A</tspan><tspan x="139" dy="13">L</tspan><tspan x="139" dy="13">L</tspan><tspan x="139" dy="13">S</tspan><tspan x="139" dy="13">T</tspan><tspan x="139" dy="13">A</tspan><tspan x="139" dy="13">C</tspan><tspan x="139" dy="13">K</tspan><tspan x="139" dy="13">@</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.4s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.8;0.4;0" dur="2.4s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="139" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="139" dy="13" fill="#AEFFC0">1</tspan><tspan x="139" dy="13">0</tspan><tspan x="139" dy="13">P</tspan><tspan x="139" dy="13">H</tspan><tspan x="139" dy="13">P</tspan><tspan x="139" dy="13">#</tspan><tspan x="139" dy="13">J</tspan><tspan x="139" dy="13">S</tspan><tspan x="139" dy="13">@</tspan><tspan x="139" dy="13">H</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.4s" repeatCount="indefinite" calcMode="linear" begin="1.2s"/>
+    <animate attributeName="opacity" values="0;0.8;0.4;0" dur="2.4s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.2s"/>
+  </text>
+
+  <!-- COL 5 x=182 dur=2.0s -->
+  <text x="182" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="182" dy="13" fill="#AEFFC0">0</tspan><tspan x="182" dy="13">1</tspan><tspan x="182" dy="13">L</tspan><tspan x="182" dy="13">A</tspan><tspan x="182" dy="13">R</tspan><tspan x="182" dy="13">A</tspan><tspan x="182" dy="13">V</tspan><tspan x="182" dy="13">E</tspan><tspan x="182" dy="13">L</tspan><tspan x="182" dy="13">#</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.0s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.0s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="182" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="182" dy="13" fill="#AEFFC0">L</tspan><tspan x="182" dy="13">I</tspan><tspan x="182" dy="13">V</tspan><tspan x="182" dy="13">E</tspan><tspan x="182" dy="13">W</tspan><tspan x="182" dy="13">I</tspan><tspan x="182" dy="13">R</tspan><tspan x="182" dy="13">E</tspan><tspan x="182" dy="13">@</tspan><tspan x="182" dy="13">$</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.0s" repeatCount="indefinite" calcMode="linear" begin="1.0s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.0s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.0s"/>
+  </text>
+
+  <!-- COL 6 x=225 dur=2.8s -->
+  <text x="225" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="225" dy="13" fill="#AEFFC0">T</tspan><tspan x="225" dy="13">E</tspan><tspan x="225" dy="13">N</tspan><tspan x="225" dy="13">G</tspan><tspan x="225" dy="13">K</tspan><tspan x="225" dy="13">U</tspan><tspan x="225" dy="13">@</tspan><tspan x="225" dy="13">Z</tspan><tspan x="225" dy="13">A</tspan><tspan x="225" dy="13">I</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.8s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.8s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="225" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="225" dy="13" fill="#AEFFC0">N</tspan><tspan x="225" dy="13">U</tspan><tspan x="225" dy="13">L</tspan><tspan x="225" dy="13">#</tspan><tspan x="225" dy="13">W</tspan><tspan x="225" dy="13">E</tspan><tspan x="225" dy="13">B</tspan><tspan x="225" dy="13">D</tspan><tspan x="225" dy="13">E</tspan><tspan x="225" dy="13">V</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.8s" repeatCount="indefinite" calcMode="linear" begin="1.4s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.8s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.4s"/>
+  </text>
+
+  <!-- COL 7 x=268 dur=2.2s -->
+  <text x="268" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="268" dy="13" fill="#AEFFC0">1</tspan><tspan x="268" dy="13">0</tspan><tspan x="268" dy="13">@</tspan><tspan x="268" dy="13">#</tspan><tspan x="268" dy="13">M</tspan><tspan x="268" dy="13">Y</tspan><tspan x="268" dy="13">S</tspan><tspan x="268" dy="13">Q</tspan><tspan x="268" dy="13">L</tspan><tspan x="268" dy="13">%</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.2s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="268" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="268" dy="13" fill="#AEFFC0">S</tspan><tspan x="268" dy="13">U</tspan><tspan x="268" dy="13">P</tspan><tspan x="268" dy="13">A</tspan><tspan x="268" dy="13">B</tspan><tspan x="268" dy="13">A</tspan><tspan x="268" dy="13">S</tspan><tspan x="268" dy="13">E</tspan><tspan x="268" dy="13">@</tspan><tspan x="268" dy="13">1</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.2s" repeatCount="indefinite" calcMode="linear" begin="1.1s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.2s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.1s"/>
+  </text>
+
+  <!-- COL 8 x=311 dur=1.8s -->
+  <text x="311" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="311" dy="13" fill="#AEFFC0">0</tspan><tspan x="311" dy="13">1</tspan><tspan x="311" dy="13">F</tspan><tspan x="311" dy="13">I</tspan><tspan x="311" dy="13">G</tspan><tspan x="311" dy="13">M</tspan><tspan x="311" dy="13">A</tspan><tspan x="311" dy="13">*</tspan><tspan x="311" dy="13">+</tspan><tspan x="311" dy="13">=</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.8s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="311" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="311" dy="13" fill="#AEFFC0">-</tspan><tspan x="311" dy="13">G</tspan><tspan x="311" dy="13">I</tspan><tspan x="311" dy="13">T</tspan><tspan x="311" dy="13">V</tspan><tspan x="311" dy="13">S</tspan><tspan x="311" dy="13">C</tspan><tspan x="311" dy="13">O</tspan><tspan x="311" dy="13">#</tspan><tspan x="311" dy="13">@</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.8s" repeatCount="indefinite" calcMode="linear" begin="0.9s"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.8s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="0.9s"/>
+  </text>
+
+  <!-- COL 9 x=354 dur=2.5s -->
+  <text x="354" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="354" dy="13" fill="#AEFFC0">T</tspan><tspan x="354" dy="13">A</tspan><tspan x="354" dy="13">I</tspan><tspan x="354" dy="13">L</tspan><tspan x="354" dy="13">W</tspan><tspan x="354" dy="13">I</tspan><tspan x="354" dy="13">N</tspan><tspan x="354" dy="13">D</tspan><tspan x="354" dy="13">@</tspan><tspan x="354" dy="13">#</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.5s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.5s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="354" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="354" dy="13" fill="#AEFFC0">0</tspan><tspan x="354" dy="13">1</tspan><tspan x="354" dy="13">A</tspan><tspan x="354" dy="13">L</tspan><tspan x="354" dy="13">P</tspan><tspan x="354" dy="13">I</tspan><tspan x="354" dy="13">N</tspan><tspan x="354" dy="13">E</tspan><tspan x="354" dy="13">@</tspan><tspan x="354" dy="13">$</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.5s" repeatCount="indefinite" calcMode="linear" begin="1.25s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.5s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.25s"/>
+  </text>
+
+  <!-- COL 10 x=397 dur=2.1s -->
+  <text x="397" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="397" dy="13" fill="#AEFFC0">I</tspan><tspan x="397" dy="13">N</tspan><tspan x="397" dy="13">D</tspan><tspan x="397" dy="13">O</tspan><tspan x="397" dy="13">N</tspan><tspan x="397" dy="13">E</tspan><tspan x="397" dy="13">S</tspan><tspan x="397" dy="13">I</tspan><tspan x="397" dy="13">A</tspan><tspan x="397" dy="13">@</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.1s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.1s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="397" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="397" dy="13" fill="#AEFFC0">0</tspan><tspan x="397" dy="13">1</tspan><tspan x="397" dy="13">#</tspan><tspan x="397" dy="13">S</tspan><tspan x="397" dy="13">T</tspan><tspan x="397" dy="13">A</tspan><tspan x="397" dy="13">C</tspan><tspan x="397" dy="13">K</tspan><tspan x="397" dy="13">@</tspan><tspan x="397" dy="13">%</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.1s" repeatCount="indefinite" calcMode="linear" begin="1.05s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.1s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.05s"/>
+  </text>
+
+  <!-- COL 11 x=440 dur=2.6s -->
+  <text x="440" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="440" dy="13" fill="#AEFFC0">L</tspan><tspan x="440" dy="13">A</tspan><tspan x="440" dy="13">R</tspan><tspan x="440" dy="13">A</tspan><tspan x="440" dy="13">V</tspan><tspan x="440" dy="13">E</tspan><tspan x="440" dy="13">L</tspan><tspan x="440" dy="13">#</tspan><tspan x="440" dy="13">1</tspan><tspan x="440" dy="13">0</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.6s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.6s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="440" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="440" dy="13" fill="#AEFFC0">@</tspan><tspan x="440" dy="13">J</tspan><tspan x="440" dy="13">S</tspan><tspan x="440" dy="13">#</tspan><tspan x="440" dy="13">C</tspan><tspan x="440" dy="13">S</tspan><tspan x="440" dy="13">S</tspan><tspan x="440" dy="13">@</tspan><tspan x="440" dy="13">#</tspan><tspan x="440" dy="13">$</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.6s" repeatCount="indefinite" calcMode="linear" begin="1.3s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.6s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.3s"/>
+  </text>
+
+  <!-- COL 12 x=483 dur=2.0s -->
+  <text x="483" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="483" dy="13" fill="#AEFFC0">0</tspan><tspan x="483" dy="13">1</tspan><tspan x="483" dy="13">L</tspan><tspan x="483" dy="13">I</tspan><tspan x="483" dy="13">V</tspan><tspan x="483" dy="13">E</tspan><tspan x="483" dy="13">W</tspan><tspan x="483" dy="13">I</tspan><tspan x="483" dy="13">R</tspan><tspan x="483" dy="13">E</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.0s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="2.0s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="483" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="483" dy="13" fill="#AEFFC0">@</tspan><tspan x="483" dy="13">T</tspan><tspan x="483" dy="13">A</tspan><tspan x="483" dy="13">L</tspan><tspan x="483" dy="13">L</tspan><tspan x="483" dy="13">#</tspan><tspan x="483" dy="13">0</tspan><tspan x="483" dy="13">1</tspan><tspan x="483" dy="13">+</tspan><tspan x="483" dy="13">=</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.0s" repeatCount="indefinite" calcMode="linear" begin="1.0s"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="2.0s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.0s"/>
+  </text>
+
+  <!-- COL 13 x=526 dur=2.3s -->
+  <text x="526" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="526" dy="13" fill="#AEFFC0">T</tspan><tspan x="526" dy="13">A</tspan><tspan x="526" dy="13">I</tspan><tspan x="526" dy="13">L</tspan><tspan x="526" dy="13">W</tspan><tspan x="526" dy="13">I</tspan><tspan x="526" dy="13">N</tspan><tspan x="526" dy="13">D</tspan><tspan x="526" dy="13">@</tspan><tspan x="526" dy="13">1</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.3s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.3s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="526" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="526" dy="13" fill="#AEFFC0">0</tspan><tspan x="526" dy="13">#</tspan><tspan x="526" dy="13">@</tspan><tspan x="526" dy="13">A</tspan><tspan x="526" dy="13">L</tspan><tspan x="526" dy="13">P</tspan><tspan x="526" dy="13">I</tspan><tspan x="526" dy="13">N</tspan><tspan x="526" dy="13">E</tspan><tspan x="526" dy="13">#</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.3s" repeatCount="indefinite" calcMode="linear" begin="1.15s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.3s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.15s"/>
+  </text>
+
+  <!-- COL 14 x=569 dur=1.9s -->
+  <text x="569" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="569" dy="13" fill="#AEFFC0">W</tspan><tspan x="569" dy="13">E</tspan><tspan x="569" dy="13">B</tspan><tspan x="569" dy="13">D</tspan><tspan x="569" dy="13">E</tspan><tspan x="569" dy="13">V</tspan><tspan x="569" dy="13">1</tspan><tspan x="569" dy="13">0</tspan><tspan x="569" dy="13">@</tspan><tspan x="569" dy="13">#</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.9s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.9s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="569" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="569" dy="13" fill="#AEFFC0">M</tspan><tspan x="569" dy="13">Y</tspan><tspan x="569" dy="13">S</tspan><tspan x="569" dy="13">Q</tspan><tspan x="569" dy="13">L</tspan><tspan x="569" dy="13">%</tspan><tspan x="569" dy="13">S</tspan><tspan x="569" dy="13">U</tspan><tspan x="569" dy="13">P</tspan><tspan x="569" dy="13">A</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.9s" repeatCount="indefinite" calcMode="linear" begin="0.95s"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.9s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="0.95s"/>
+  </text>
+
+  <!-- COL 15 x=612 dur=2.7s -->
+  <text x="612" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="612" dy="13" fill="#AEFFC0">A</tspan><tspan x="612" dy="13">B</tspan><tspan x="612" dy="13">A</tspan><tspan x="612" dy="13">S</tspan><tspan x="612" dy="13">E</tspan><tspan x="612" dy="13">0</tspan><tspan x="612" dy="13">1</tspan><tspan x="612" dy="13">@</tspan><tspan x="612" dy="13">#</tspan><tspan x="612" dy="13">$</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.7s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.7s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="612" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="612" dy="13" fill="#AEFFC0">F</tspan><tspan x="612" dy="13">I</tspan><tspan x="612" dy="13">G</tspan><tspan x="612" dy="13">M</tspan><tspan x="612" dy="13">A</tspan><tspan x="612" dy="13">@</tspan><tspan x="612" dy="13">G</tspan><tspan x="612" dy="13">I</tspan><tspan x="612" dy="13">T</tspan><tspan x="612" dy="13">%</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.7s" repeatCount="indefinite" calcMode="linear" begin="1.35s"/>
+    <animate attributeName="opacity" values="0;0.7;0.35;0" dur="2.7s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.35s"/>
+  </text>
+
+  <!-- COL 16 x=655 dur=2.2s -->
+  <text x="655" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="655" dy="13" fill="#AEFFC0">V</tspan><tspan x="655" dy="13">S</tspan><tspan x="655" dy="13">C</tspan><tspan x="655" dy="13">O</tspan><tspan x="655" dy="13">D</tspan><tspan x="655" dy="13">E</tspan><tspan x="655" dy="13">G</tspan><tspan x="655" dy="13">I</tspan><tspan x="655" dy="13">T</tspan><tspan x="655" dy="13">@</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.2s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.8;0.45;0" dur="2.2s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="655" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="655" dy="13" fill="#AEFFC0">0</tspan><tspan x="655" dy="13">1</tspan><tspan x="655" dy="13">T</tspan><tspan x="655" dy="13">E</tspan><tspan x="655" dy="13">N</tspan><tspan x="655" dy="13">G</tspan><tspan x="655" dy="13">K</tspan><tspan x="655" dy="13">U</tspan><tspan x="655" dy="13">#</tspan><tspan x="655" dy="13">Z</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.2s" repeatCount="indefinite" calcMode="linear" begin="1.1s"/>
+    <animate attributeName="opacity" values="0;0.8;0.45;0" dur="2.2s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.1s"/>
+  </text>
+
+  <!-- COL 17 x=698 dur=1.8s -->
+  <text x="698" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="698" dy="13" fill="#AEFFC0">A</tspan><tspan x="698" dy="13">I</tspan><tspan x="698" dy="13">N</tspan><tspan x="698" dy="13">U</tspan><tspan x="698" dy="13">L</tspan><tspan x="698" dy="13">@</tspan><tspan x="698" dy="13">W</tspan><tspan x="698" dy="13">E</tspan><tspan x="698" dy="13">B</tspan><tspan x="698" dy="13">1</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.8s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.8s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="698" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="698" dy="13" fill="#AEFFC0">0</tspan><tspan x="698" dy="13">P</tspan><tspan x="698" dy="13">H</tspan><tspan x="698" dy="13">P</tspan><tspan x="698" dy="13">J</tspan><tspan x="698" dy="13">S</tspan><tspan x="698" dy="13">@</tspan><tspan x="698" dy="13">C</tspan><tspan x="698" dy="13">S</tspan><tspan x="698" dy="13">S</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="1.8s" repeatCount="indefinite" calcMode="linear" begin="0.9s"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="1.8s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="0.9s"/>
+  </text>
+
+  <!-- COL 18 x=741 dur=2.4s -->
+  <text x="741" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="741" dy="13" fill="#AEFFC0">L</tspan><tspan x="741" dy="13">A</tspan><tspan x="741" dy="13">R</tspan><tspan x="741" dy="13">A</tspan><tspan x="741" dy="13">V</tspan><tspan x="741" dy="13">E</tspan><tspan x="741" dy="13">L</tspan><tspan x="741" dy="13">@</tspan><tspan x="741" dy="13">1</tspan><tspan x="741" dy="13">0</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.4s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.8;0.4;0" dur="2.4s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="741" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="741" dy="13" fill="#AEFFC0">#</tspan><tspan x="741" dy="13">S</tspan><tspan x="741" dy="13">U</tspan><tspan x="741" dy="13">P</tspan><tspan x="741" dy="13">A</tspan><tspan x="741" dy="13">B</tspan><tspan x="741" dy="13">A</tspan><tspan x="741" dy="13">S</tspan><tspan x="741" dy="13">E</tspan><tspan x="741" dy="13">@</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.4s" repeatCount="indefinite" calcMode="linear" begin="1.2s"/>
+    <animate attributeName="opacity" values="0;0.8;0.4;0" dur="2.4s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.2s"/>
+  </text>
+
+  <!-- COL 19 x=784 dur=2.0s -->
+  <text x="784" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="784" dy="13" fill="#AEFFC0">0</tspan><tspan x="784" dy="13">1</tspan><tspan x="784" dy="13">T</tspan><tspan x="784" dy="13">A</tspan><tspan x="784" dy="13">I</tspan><tspan x="784" dy="13">L</tspan><tspan x="784" dy="13">W</tspan><tspan x="784" dy="13">I</tspan><tspan x="784" dy="13">N</tspan><tspan x="784" dy="13">D</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.0s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="2.0s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="784" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="784" dy="13" fill="#AEFFC0">@</tspan><tspan x="784" dy="13">A</tspan><tspan x="784" dy="13">L</tspan><tspan x="784" dy="13">P</tspan><tspan x="784" dy="13">I</tspan><tspan x="784" dy="13">N</tspan><tspan x="784" dy="13">E</tspan><tspan x="784" dy="13">#</tspan><tspan x="784" dy="13">0</tspan><tspan x="784" dy="13">1</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.0s" repeatCount="indefinite" calcMode="linear" begin="1.0s"/>
+    <animate attributeName="opacity" values="0;0.75;0.4;0" dur="2.0s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.0s"/>
+  </text>
+
+  <!-- COL 20 x=827 dur=2.6s -->
+  <text x="827" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="827" dy="13" fill="#AEFFC0">T</tspan><tspan x="827" dy="13">A</tspan><tspan x="827" dy="13">L</tspan><tspan x="827" dy="13">L</tspan><tspan x="827" dy="13">@</tspan><tspan x="827" dy="13">#</tspan><tspan x="827" dy="13">0</tspan><tspan x="827" dy="13">1</tspan><tspan x="827" dy="13">@</tspan><tspan x="827" dy="13">+</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.6s" repeatCount="indefinite" calcMode="linear"/>
+    <animate attributeName="opacity" values="0;0.8;0.45;0" dur="2.6s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite"/>
+  </text>
+  <text x="827" y="0" font-family="'Courier New',Courier,monospace" font-size="12" fill="#39D353">
+    <tspan x="827" dy="13" fill="#AEFFC0">=</tspan><tspan x="827" dy="13">T</tspan><tspan x="827" dy="13">E</tspan><tspan x="827" dy="13">N</tspan><tspan x="827" dy="13">G</tspan><tspan x="827" dy="13">K</tspan><tspan x="827" dy="13">U</tspan><tspan x="827" dy="13">@</tspan><tspan x="827" dy="13">Z</tspan><tspan x="827" dy="13">A</tspan>
+    <animateTransform attributeName="transform" type="translate" values="0,-160;0,170" dur="2.6s" repeatCount="indefinite" calcMode="linear" begin="1.3s"/>
+    <animate attributeName="opacity" values="0;0.8;0.45;0" dur="2.6s" keyTimes="0;0.1;0.85;1" repeatCount="indefinite" begin="1.3s"/>
+  </text>
+
+  <!-- ════════════════════════════════ -->
+  <!-- TOP/BOTTOM FADE MASK OVERLAY    -->
+  <!-- ════════════════════════════════ -->
+  <rect width="860" height="160" fill="url(#fade)"/>
+
+  <!-- ════════════════════════════════ -->
+  <!-- CENTER TEXT OVERLAY             -->
+  <!-- ════════════════════════════════ -->
+  <!-- Dark backdrop for readability -->
+  <rect x="150" y="36" width="560" height="88" rx="8" fill="#0D1117" fill-opacity="0.86"/>
+  <!-- Top accent line on backdrop -->
+  <rect x="150" y="36" width="560" height="2" rx="1" fill="#39D353" fill-opacity="0.6"/>
+  <rect x="150" y="122" width="560" height="2" rx="1" fill="#39D353" fill-opacity="0.6"/>
+
+  <!-- Typing bracket decorators -->
+  <text x="162" y="83" font-family="'Courier New',Courier,monospace" font-size="20" fill="#39D353" fill-opacity="0.5" filter="url(#sglow)">[</text>
+  <text x="698" y="83" font-family="'Courier New',Courier,monospace" font-size="20" fill="#39D353" fill-opacity="0.5" filter="url(#sglow)">]</text>
+
+  <!-- MAIN NAME — TENGKU ZAINUL -->
+  <text x="430" y="85" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="27" font-weight="700"
+        fill="#E6EDF3" filter="url(#glow)">TENGKU ZAINUL</text>
+
+  <!-- Subtitle -->
+  <text x="430" y="110" text-anchor="middle"
+        font-family="'Courier New',Courier,monospace" font-size="12"
+        fill="#58A6FF" filter="url(#sglow)">[ Junior Web Developer · TALL Stack · Indonesia ]</text>
+</svg>
