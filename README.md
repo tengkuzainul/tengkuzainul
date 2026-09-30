@@ -17,15 +17,22 @@
 
 <br/>
 
-<!-- BADGES ROW 2: Tech Stack -->
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire"/>
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
-
+<!-- BADGES ROW 2: Tech Stack (DevIcons) -->
+<div>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="70" alt="PHP"/>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_laravel.png?raw=true" width="70" alt="Laravel"/>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="70" alt="JavaScript"/>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" width="70" alt="TypeScript"/>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="70" alt="HTML"/>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="70" alt="CSS"/>
+</div>
+<div>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="70" alt="React"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="42" alt="Vue"/>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width="70" alt="Git"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="42" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="42" alt="Next.js"/>
+</div>
 <br/>
 
 <!-- BADGES ROW 3: Stats -->
@@ -41,52 +48,30 @@
 <!--                  DETAILS & STATS (ACCORDION)              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<details>
-<summary><b>▶ Click for GitHub Stats & Bento Details</b></summary>
+<details open>
+<summary><b>▶ Introduction</b></summary>
 <br/>
+
+Halo! 👋 Saya **Tengku Muhammad Zainul Aprilizar**, seorang **Fullstack Web Developer** tersertifikasi BNSP dan lulusan program studi **Sistem Informasi di Fakultas Ilmu Komputer, Universitas Muhammadiyah Riau (UMRI)**. Saya memiliki minat besar terhadap pengembangan *web* modern, khususnya dengan ekosistem **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) dan **Vue.js**.
+
+Selain keahlian teknis pemrograman, saya juga memiliki latar belakang kuat di bidang analisis sistem dan perencanaan strategis TI.
+
+💼 **Informasi Karir & Pengalaman:**
+- **Web Development:** Berpengalaman merancang dan membangun sistem informasi *end-to-end* (mulai dari Sistem Manajemen Keuangan UMKM, Sistem Pendataan Klinik Medis, hingga Portal BEM).
+- **Penelitian Akademik & Analisis TI:** Turut serta sebagai penulis dalam penelitian *"Perencanaan Strategis SI/TI Menggunakan Analisis Ward & Peppard Pada Toko Trubus Pekanbaru"* yang dipublikasikan di **Jurnal CoSciTech** (2023).
+- **UI/UX & Frontend:** Terbiasa merancang antarmuka web yang interaktif, responsif, serta *user-friendly*.
+- **Tujuan Karir:** Saat ini saya terbuka untuk peluang *full-time*, *freelance*, kolaborasi *open-source*, maupun posisi sebagai *Web Programmer* dan *IT Analyst*.
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&letterSpacing=2px&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Hello+World!+I'm+Tengku+Zainul+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%9A%80;TALL+Stack+Enthusiast+%E2%9A%A1;Building+%E2%80%A2+Learning+%E2%80%A2+Growing)](https://git.io/typing-svg)
-<br/><br/>
-
-<p align="center"><img src="img/ascii-banner.svg" alt="ASCII Matrix Rain Banner" width="100%"/></p>
 <br/>
-<p align="center"><img src="img/terminal-card.svg" alt="Terminal ID Card" width="100%"/></p>
-<br/>
-
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td width="50%" align="center" valign="top"><img src="img/bento-stack.svg" alt="Tech Stack" width="98%"/></td>
 <td width="50%" align="center" valign="top"><img src="img/bento-profile.svg" alt="About Me" width="98%"/></td>
 </tr>
 </table>
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/tengkuzainul">
-<img src="https://github-readme-stats.vercel.app/api?username=tengkuzainul&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=e6edf3&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" width="100%" height="180"/>
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/tengkuzainul">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuzainul&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide_border=false&langs_count=8" alt="Top Languages" width="100%" height="180"/>
-</a>
-</td>
-</tr>
-</table>
-<br/>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=tengkuzainul&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff5f57&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=6e7681&sideNums=e6edf3&currStreakNum=e6edf3" alt="GitHub Streak" width="100%"/>
-</p>
-<br/>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tengkuzainul&bg_color=0d1117&color=58a6ff&line=39d353&point=e6edf3&area=true&hide_border=false&border_color=30363d&area_color=39d35320" alt="Contribution Activity Graph" width="100%"/>
-</p>
 </div>
+
 </details>
 
 <br/>
