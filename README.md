@@ -42,65 +42,65 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <details>
-  <summary><b>▶ Click for GitHub Stats & Bento Details</b></summary>
-  <br/>
-  
-  <div align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&letterSpacing=2px&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Hello+World!+I'm+Tengku+Zainul+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%9A%80;TALL+Stack+Enthusiast+%E2%9A%A1;Building+%E2%80%A2+Learning+%E2%80%A2+Growing)](https://git.io/typing-svg)
-    <br/><br/>
+<summary><b>▶ Click for GitHub Stats & Bento Details</b></summary>
+<br/>
 
-    <p align="center"><img src="img/ascii-banner.svg" alt="ASCII Matrix Rain Banner" width="100%"/></p>
-    <br/>
-    <p align="center"><img src="img/terminal-card.svg" alt="Terminal ID Card" width="100%"/></p>
-    <br/>
-    
-    <table width="100%" border="0" cellspacing="0" cellpadding="4">
-      <tr>
-        <td width="50%" align="center" valign="top"><img src="img/bento-stack.svg" alt="Tech Stack" width="98%"/></td>
-        <td width="50%" align="center" valign="top"><img src="img/bento-profile.svg" alt="About Me" width="98%"/></td>
-      </tr>
-    </table>
-    <br/>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=22&letterSpacing=2px&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=580&lines=Hello+World!+I'm+Tengku+Zainul+%F0%9F%91%8B;Junior+Web+Developer+%F0%9F%9A%80;TALL+Stack+Enthusiast+%E2%9A%A1;Building+%E2%80%A2+Learning+%E2%80%A2+Growing)](https://git.io/typing-svg)
+<br/><br/>
 
-    <table width="100%" border="0" cellspacing="0" cellpadding="4">
-      <tr>
-        <td align="center" width="50%">
-          <a href="https://github.com/tengkuzainul">
-            <img src="https://github-readme-stats.vercel.app/api?username=tengkuzainul&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=e6edf3&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" width="100%" height="180"/>
-          </a>
-        </td>
-        <td align="center" width="50%">
-          <a href="https://github.com/tengkuzainul">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuzainul&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide_border=false&langs_count=8" alt="Top Languages" width="100%" height="180"/>
-          </a>
-        </td>
-      </tr>
-    </table>
-    <br/>
+<p align="center"><img src="img/ascii-banner.svg" alt="ASCII Matrix Rain Banner" width="100%"/></p>
+<br/>
+<p align="center"><img src="img/terminal-card.svg" alt="Terminal ID Card" width="100%"/></p>
+<br/>
 
-    <p align="center">
-      <img src="https://streak-stats.demolab.com/?user=tengkuzainul&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff5f57&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=6e7681&sideNums=e6edf3&currStreakNum=e6edf3" alt="GitHub Streak" width="100%"/>
-    </p>
-    <br/>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="50%" align="center" valign="top"><img src="img/bento-stack.svg" alt="Tech Stack" width="98%"/></td>
+<td width="50%" align="center" valign="top"><img src="img/bento-profile.svg" alt="About Me" width="98%"/></td>
+</tr>
+</table>
+<br/>
 
-    <p align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=tengkuzainul&bg_color=0d1117&color=58a6ff&line=39d353&point=e6edf3&area=true&hide_border=false&border_color=30363d&area_color=39d35320" alt="Contribution Activity Graph" width="100%"/>
-    </p>
-  </div>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/tengkuzainul">
+<img src="https://github-readme-stats.vercel.app/api?username=tengkuzainul&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=e6edf3&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" width="100%" height="180"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/tengkuzainul">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tengkuzainul&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&hide_border=false&langs_count=8" alt="Top Languages" width="100%" height="180"/>
+</a>
+</td>
+</tr>
+</table>
+<br/>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=tengkuzainul&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff5f57&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=6e7681&sideNums=e6edf3&currStreakNum=e6edf3" alt="GitHub Streak" width="100%"/>
+</p>
+<br/>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tengkuzainul&bg_color=0d1117&color=58a6ff&line=39d353&point=e6edf3&area=true&hide_border=false&border_color=30363d&area_color=39d35320" alt="Contribution Activity Graph" width="100%"/>
+</p>
+</div>
 </details>
 
 <br/>
 
 <details>
-  <summary><b>▶ Click for Contribution Snake</b></summary>
-  <br/>
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg">
-      <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg"/>
-    </picture>
-  </div>
+<summary><b>▶ Click for Contribution Snake</b></summary>
+<br/>
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg">
+<img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg"/>
+</picture>
+</div>
 </details>
 
 <br/>
@@ -110,32 +110,33 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <details open>
-  <summary><b>▶ Favorite Open Source Repositories</b></summary>
-  <br/>
-  <table width="100%" border="0" cellspacing="0" cellpadding="4">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/tengkuzainul/si21-journey">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=si21-journey&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="si21-journey"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/tengkuzainul/finance-management">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=finance-management&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="finance-management"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/tengkuzainul/office-booked">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=office-booked&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="office-booked"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/tengkuzainul/sisfor-bem">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=sisfor-bem&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="sisfor-bem"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<summary><b>▶ Favorite Open Source Repositories</b></summary>
+<br/>
+<table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/tengkuzainul/si21-journey">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=si21-journey&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="si21-journey"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/tengkuzainul/finance-management">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=finance-management&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="finance-management"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/tengkuzainul/office-booked">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=office-booked&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="office-booked"/>
+</a>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/tengkuzainul/sisfor-bem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tengkuzainul&repo=sisfor-bem&theme=github_dark&bg_color=0d1117&border_color=30363d" width="100%" alt="sisfor-bem"/>
+</a>
+</td>
+</tr>
+</table>
+<p align="center"><i>(Note: If the repository cards above appear broken, it is because the <code>github-readme-stats.vercel.app</code> server is temporarily down.)</i></p>
 </details>
