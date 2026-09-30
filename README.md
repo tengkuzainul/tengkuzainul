@@ -51,7 +51,7 @@
 <!--                  DETAILS & STATS (ACCORDION)              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<details open>
+<details>
 <summary><b>▶ Introduction</b></summary>
 <br/>
 
@@ -65,30 +65,8 @@ Selain keahlian teknis pemrograman, saya juga memiliki latar belakang kuat di bi
 - **UI/UX & Frontend:** Terbiasa merancang antarmuka web yang interaktif, responsif, serta *user-friendly*.
 - **Tujuan Karir:** Saat ini saya terbuka untuk peluang *full-time*, *freelance*, kolaborasi *open-source*, maupun posisi sebagai *Web Programmer* dan *IT Analyst*.
 
-<div align="center">
-<br/>
-<table width="100%" border="0" cellspacing="0" cellpadding="4">
-<tr>
-<td width="50%" align="center" valign="top"><img src="img/bento-stack.svg" alt="Tech Stack" width="98%"/></td>
-<td width="50%" align="center" valign="top"><img src="img/bento-profile.svg" alt="About Me" width="98%"/></td>
-</tr>
-</table>
-</div>
 
-</details>
 
-<br/>
-
-<details>
-<summary><b>▶ Click for Contribution Snake</b></summary>
-<br/>
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg">
-<img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg"/>
-</picture>
-</div>
 </details>
 
 <br/>
@@ -97,7 +75,7 @@ Selain keahlian teknis pemrograman, saya juga memiliki latar belakang kuat di bi
 <!--                  FAVORITE OPEN SOURCE REPOS                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<details open>
+<details>
 <summary><b>▶ Favorite Open Source Repositories</b></summary>
 <br/>
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -127,4 +105,18 @@ Selain keahlian teknis pemrograman, saya juga memiliki latar belakang kuat di bi
 </tr>
 </table>
 <p align="center"><i>(Note: If the repository cards above appear broken, it is because the <code>github-readme-stats.vercel.app</code> server is temporarily down.)</i></p>
+</details>
+
+<br/>
+
+<details open>
+<summary><b>▶ Click for Contribution Snake</b></summary>
+<br/>
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg">
+<img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg"/>
+</picture>
+</div>
 </details>
