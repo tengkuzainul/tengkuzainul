@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Name" viewBox="0 0 1280 640">
+    <defs>
+        <style>
+            .name-text {
+                font-family: 'Arial Black', Impact, 'Segoe UI', sans-serif;
+                font-size: 140px;
+                font-weight: 900;
+                fill: transparent;
+                stroke: #F4F1DE;
+                stroke-linejoin: round;
+                stroke-linecap: round;
+                stroke-width: 4px;
+                stroke-dasharray: 2000;
+                stroke-dashoffset: 2000;
+            }
+        </style>
+        
+        <polygon id="sky_left" points="0 0 0 640 565.821 640 723.347 0 0 0" fill="#1B263B" stroke="#1B263B" />
+        <polygon id="sky_right" points="723.347 0 565.821 640 1280 640 1280 0 723.347 0" fill="#415A77" stroke="#415A77" />
+        
+        <clipPath id="clip-left">
+            <polygon points="0 0 0 640 565.821 640 723.347 0 0 0" />
+        </clipPath>
+        <clipPath id="clip-right">
+            <polygon points="723.347 0 565.821 640 1280 640 1280 0 723.347 0" />
+        </clipPath>
+    </defs>
+
+    <!-- Base background (Deepest Navy) -->
+    <rect id="name-bg-0" y="0" width="1280" height="640" fill="#0D1B2A" />
+
+    <!-- Sky groups (Navy and Slate Navy) -->
+    <g id="sky_left_group">
+        <use href="#sky_left" />
+    </g>
+    <g id="sky_right_group">
+        <use href="#sky_right" />
+    </g>
+
+    <!-- Top dark background (Deepest Navy) -->
+    <rect id="name-bg-1" y="0" width="1280" height="640" fill="#0D1B2A" />
+
+    <!-- Split Text -->
+    <g id="text_left" clip-path="url(#clip-left)">
+        <text id="text-l" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="name-text">
+            TENGKU ZAINUL
+        </text>
+    </g>
+    <g id="text_right" clip-path="url(#clip-right)">
+        <text id="text-r" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="name-text">
+            TENGKU ZAINUL
+        </text>
+    </g>
+
+    <!-- Diagonal Laser Line (Cream) -->
+    <line id="name-line" x1="-78.77" y1="322.5" x2="78.77" y2="-322.5" transform="translate(644.58 320)" stroke="#F4F1DE" stroke-width="0px" />
+
+    <!-- ONE-TIME ANIMATION (Gaya Awal) -->
+    
+    <!-- 1. Text draw and fill -->
+    <animate href="#text-l" attributeName="stroke-dashoffset" from="2000" to="0" dur="2s" fill="freeze" begin="0.5s" id="draw_l" />
+    <animate href="#text-l" attributeName="fill" values="transparent;#F4F1DE" dur="0.5s" fill="freeze" begin="draw_l.end" id="fill_l" />
+    <animate href="#text-l" attributeName="stroke-width" values="4px;0px" dur="0.5s" fill="freeze" begin="draw_l.end" />
+
+    <animate href="#text-r" attributeName="stroke-dashoffset" from="2000" to="0" dur="2s" fill="freeze" begin="0.5s" id="draw_r" />
+    <animate href="#text-r" attributeName="fill" values="transparent;#F4F1DE" dur="0.5s" fill="freeze" begin="draw_r.end" id="fill_r" />
+    <animate href="#text-r" attributeName="stroke-width" values="4px;0px" dur="0.5s" fill="freeze" begin="draw_r.end" />
+
+    <!-- 2. Line appears -->
+    <animate href="#name-line" attributeName="stroke-width" from="0px" to="12px" dur="0.5s" fill="freeze" begin="fill_l.end+1.0s" id="line_appear" />
+
+    <!-- 3. Instantly jump sky off screen so we can fade out bg-1 to reveal bg-0 -->
+    <animateMotion href="#sky_left_group" dur="0.1s" begin="line_appear.end" fill="freeze" path="M 0,0 L -157.5259,640" />
+    <animateMotion href="#sky_right_group" dur="0.1s" begin="line_appear.end" fill="freeze" path="M 0,0 L 157.5259,-640" />
+
+    <!-- Fade out top background -->
+    <animate href="#name-bg-1" attributeName="opacity" from="1" to="0" dur="0.1s" begin="line_appear.end+0.2s" fill="freeze" />
+
+    <!-- 4. Sky flies IN -->
+    <animateMotion href="#sky_left_group" dur="1s" begin="line_appear.end+0.5s" fill="freeze" path="M -157.5259,640 L 0,0" />
+    <animateMotion href="#sky_right_group" dur="1s" begin="line_appear.end+0.5s" fill="freeze" path="M 157.5259,-640 L 0,0" id="sky_in" />
+
+    <!-- 5. Text flies OUT -->
+    <animateMotion href="#text_left" dur="1s" begin="line_appear.end+0.8s" fill="freeze" path="M 0,0 L -157.5259,640" />
+    <animateMotion href="#text_right" dur="1s" begin="line_appear.end+0.9s" fill="freeze" path="M 0,0 L 157.5259,-640" />
+
+    <!-- 6. Line disappears -->
+    <!-- 6. Line disappears -->
+    <animate href="#name-line" attributeName="stroke-width" from="12px" to="0px" dur="0.5s" fill="freeze" begin="sky_in.end" />
+
+    <!-- 7. Coding Logo fades in -->
+    <g id="coding-logo-pos" transform="translate(640, 320)">
+        <g id="coding-logo" opacity="0" transform="translate(0, 40)">
+            <path d="M-90 -60 L-150 0 L-90 60 M90 -60 L150 0 L90 60 M-30 90 L30 -90" fill="transparent" stroke="#F4F1DE" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+    </g>
+    <animate href="#coding-logo" attributeName="opacity" from="0" to="1" dur="1s" fill="freeze" begin="line_appear.end+1.0s" />
+    <animateTransform href="#coding-logo" attributeName="transform" type="translate" from="0 40" to="0 0" dur="1s" fill="freeze" begin="line_appear.end+1.0s" />
+</svg>
