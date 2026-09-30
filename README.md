@@ -23,15 +23,18 @@
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_laravel.png?raw=true" width="70" alt="Laravel"/>
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="70" alt="JavaScript"/>
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" width="70" alt="TypeScript"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="70" alt="HTML"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="70" alt="CSS"/>
 </div>
 <div>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="70" alt="HTML"/>
+<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="70" alt="CSS"/>
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="70" alt="React"/>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="42" alt="Vue"/>
 <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width="70" alt="Git"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="42" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="42" alt="Next.js"/>
+</div>
+<br/>
+<div>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </div>
 <br/>
 
