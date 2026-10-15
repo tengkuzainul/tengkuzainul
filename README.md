@@ -1,61 +1,87 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              TENGKU ZAINUL — GITHUB PROFILE               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="TengkuZainul.svg" alt="Tengku Zainul Animation" width="100%">
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--         ANIMATED CONTRIBUTION GRAPH (REAL DATA)              -->
+<!--   Regenerated daily by .github/workflows/update-profile-art.yml -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
+<h3><code>tengkuzainul@github ~ $ ./contributions.sh</code></h3>
 
-<!-- BADGES ROW 1: Socials -->
-<a href="https://github.com/tengkuzainul"><img src="https://img.shields.io/badge/@tengkuzainul-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/tengkuzainull"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/tengkumz_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.tiktok.com/@bewokzcode__"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a>
-<a href="mailto:tengkuzainula04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<img src="./contrib-heatmap.svg" width="860" alt="Tengku Zainul's GitHub contribution graph — auto-refreshed daily" />
 
-<br/>
+<br>
+<br>
 
-<!-- BADGES ROW 2: Tech Stack (DevIcons) -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--    ASCII PORTRAIT (LEFT) + REAL-TIME STATS CARD (RIGHT)    -->
+<!--    Both SVGs are 840x880 for equal heights side-by-side    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3><code>tengkuzainul@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./zainul-ascii.svg" width="420" alt="Tengku Zainul — Monochrome ASCII portrait" /></td>
+    <td valign="top"><img src="./stats.svg" width="420" alt="Tengku Zainul's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     LINKS & SOCIALS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h3><code>tengkuzainul@github ~ $ ./links.sh</code></h3>
+
+<p><b>Fullstack Web Developer · Information Systems (S.Kom) · IT Analyst</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-zyn--portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://zyn-portfolio-web.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tengkuzainull-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tengkuzainull)
+[![Instagram](https://img.shields.io/badge/Instagram-tengkumz__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tengkumz_)
+[![TikTok](https://img.shields.io/badge/TikTok-@bewokzcode__-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@bewokzcode__)
+[![Gmail](https://img.shields.io/badge/Gmail-tengkuzainula04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tengkuzainula04@gmail.com)
+
+<br>
+
+<!-- Tech Stack Badges -->
 <div>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="70" alt="PHP"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_laravel.png?raw=true" width="70" alt="Laravel"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_javascript.png?raw=true" width="70" alt="JavaScript"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_typescript.png?raw=true" width="70" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </div>
+
+<br>
+
+<!-- Badges: Certifications & Visitors -->
 <div>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_html.png?raw=true" width="70" alt="HTML"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_css.png?raw=true" width="70" alt="CSS"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="70" alt="React"/>
-<img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width="70" alt="Git"/>
+  <a href="https://drive.google.com/file/d/1PW3DAM6kb_gNTIj6ifjzH39ttv2XhWwg/view?usp=sharing"><img src="https://img.shields.io/badge/BNSP%20Certified-Junior%20Web%20Developer-58A6FF?style=flat-square&logo=checkmarx&logoColor=white" alt="BNSP"/></a>
+  <a href="https://github.com/tengkuzainul"><img src="https://visitor-badge.laobi.icu/badge?page_id=tengkuzainul.tengkuzainul&left_text=profile%20visits&left_color=101820&right_color=38B2AC" alt="Visitor Badge"/></a>
+  <img src="https://img.shields.io/badge/auto--updated-daily-2ea44f?style=flat-square&logo=githubactions&logoColor=white" alt="Auto Updated"/>
 </div>
-<br/>
-<div>
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</div>
-<br/>
 
-<!-- BADGES ROW 3: Stats -->
-<a href="https://github.com/tengkuzainul"><img src="https://visitor-badge.laobi.icu/badge?page_id=tengkuzainul.tengkuzainul&left_text=visits&left_color=101820&right_color=38B2AC" alt="Visitor Badge"/></a>
-<a href="https://drive.google.com/file/d/1PW3DAM6kb_gNTIj6ifjzH39ttv2XhWwg/view?usp=sharing"><img src="https://img.shields.io/badge/profile%20updated-2026-F4F1DE?style=flat-square&logo=github" alt="Updated"/></a>
-<a href="https://drive.google.com/file/d/1PW3DAM6kb_gNTIj6ifjzH39ttv2XhWwg/view?usp=sharing"><img src="https://img.shields.io/badge/BNSP%20Certified-Junior%20Web%20Developer-58A6FF?style=flat-square&logo=checkmarx&logoColor=white" alt="BNSP"/></a>
-
-<br/><br/>
+<br>
 
 </div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  DETAILS & STATS (ACCORDION)              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <details>
-<summary><b>▶ Introduction</b></summary>
+<summary><b>▶ Introduction &amp; Background</b></summary>
 <br/>
 
-Halo! 👋 Saya **Tengku Muhammad Zainul Aprilizar**, seorang **Fullstack Web Developer** tersertifikasi BNSP dan lulusan program studi **Sistem Informasi di Fakultas Ilmu Komputer, Universitas Muhammadiyah Riau (UMRI)**. Saya memiliki minat besar terhadap pengembangan *web* modern, khususnya dengan ekosistem **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) dan **Vue.js**.
+Halo! 👋 Saya **Tengku Muhammad Zainul Aprilizar**, seorang **Fullstack Web Developer** tersertifikasi BNSP dan lulusan program studi **Sistem Informasi di Fakultas Ilmu Komputer, Universitas Muhammadiyah Riau (UMRI)**. Saya memiliki minat besar terhadap pengembangan *web* modern, khususnya dengan ekosistem **TALL Stack** (Tailwind, Alpine, Laravel, Livewire) dan **Vue.js / React**.
 
 Selain keahlian teknis pemrograman, saya juga memiliki latar belakang kuat di bidang analisis sistem dan perencanaan strategis TI.
 
@@ -64,8 +90,6 @@ Selain keahlian teknis pemrograman, saya juga memiliki latar belakang kuat di bi
 - **Penelitian Akademik & Analisis TI:** Turut serta sebagai penulis dalam penelitian *"Perencanaan Strategis SI/TI Menggunakan Analisis Ward & Peppard Pada Toko Trubus Pekanbaru"* yang dipublikasikan di **Jurnal CoSciTech** (2023).
 - **UI/UX & Frontend:** Terbiasa merancang antarmuka web yang interaktif, responsif, serta *user-friendly*.
 - **Tujuan Karir:** Saat ini saya terbuka untuk peluang *full-time*, *freelance*, kolaborasi *open-source*, maupun posisi sebagai *Web Programmer* dan *IT Analyst*.
-
-
 
 </details>
 
@@ -104,17 +128,20 @@ Selain keahlian teknis pemrograman, saya juga memiliki latar belakang kuat di bi
 </td>
 </tr>
 </table>
-<p align="center"><i>(Note: If the repository cards above appear broken, it is because the <code>github-readme-stats.vercel.app</code> server is temporarily down.)</i></p>
 </details>
 
 <br/>
 
-<details open>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE GAME                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<details>
 <summary><b>▶ Click for Contribution Snake</b></summary>
 <br/>
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg">
 <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/tengkuzainul/tengkuzainul/output/snake.svg"/>
 </picture>
