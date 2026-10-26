@@ -1,22 +1,22 @@
 {
   "username": "tengkuzainul",
-  "generated_at": "2026-10-25T11:39:36Z",
+  "generated_at": "2026-10-26T13:12:08Z",
   "range": {
     "start": "2025-10-26",
+    "end": "2026-10-26"
+  },
+  "total_contributions": 535,
+  "active_days": 102,
+  "avg_per_active_day": 5.2,
+  "current_streak": {
+    "length": 16,
+    "start": "2026-10-10",
     "end": "2026-10-25"
   },
-  "total_contributions": 534,
-  "active_days": 101,
-  "avg_per_active_day": 5.3,
-  "current_streak": {
-    "length": 15,
-    "start": "2026-10-10",
-    "end": "2026-10-24"
-  },
   "longest_streak": {
-    "length": 15,
+    "length": 16,
     "start": "2026-10-10",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "best_day": {
     "date": "2026-09-28",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 119
+      "total": 120
     }
   ],
   "days": [
@@ -1899,6 +1899,11 @@
     },
     {
       "date": "2026-10-25",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-26",
       "count": 0,
       "level": 0
     }
